@@ -1,12 +1,18 @@
-# Exploratory Analysis of Ebay Car Sales Data
-The aim of this project is to clean the Ebay car sales data and analyze the included used car listings using the programming language Python. We will be using pandas and numpy module for our project.
+# Is Fandango Still Inflating Ratings?
+In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest (Fandango is an online movie ratings aggregator). He published his analysis in this article — a great piece of data journalism that's totally worth reading
 
-Data Description
-We will be working on a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website. Dataset file: 'autos.csv'.The dataset was originally scraped and uploaded to Kaggle. The version of the dataset we are working with is a sample of 50,000 data points that was prepared by Dataquest including simulating a less-cleaned version of the data.
+we'll analyze more recent movie ratings data to determine whether there has been any change in Fandango's rating system after Hickey's analysis.
 
-Other Info
-Concepts used in the project: pandas and numpy modules in Python.
+# Data Description
+We'll work with two samples of movie ratings:the data in one sample was collected previous to Hickey's analysis, while the other sample was collected after. Let's start by reading in the two samples (which are stored as CSV files) and getting familiar with their structure.
+
+# Other Info
 
 Programming Language: Python.
 
 Environment: Jupyter.
+
+# Conclusion
+Our analysis showed that there's indeed a slight difference between Fandango's ratings for popular movies in 2015 and Fandango's ratings for popular movies in 2016. We also determined that, on average, popular movies released in 2016 were rated lower on Fandango than popular movies released in 2015.
+
+We cannot be completely sure what caused the change, but the chances are very high that it was caused by Fandango fixing the biased rating system after Hickey's analysis.
