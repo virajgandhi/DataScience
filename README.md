@@ -7,8 +7,7 @@ Contents
 
        Tools: Jupyter,Python,Numpy
 
-[Is FANDANGO Still Inflating Ratings]
-(https://github.com/virajgandhi/DataScience/tree/master/Machine%20Learning/Project2): In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest (Fandango is an online movie ratings aggregator). He published his analysis in this article — a great piece of data journalism that's totally worth reading. we'll analyze more recent movie ratings data to determine whether there has    been any change in Fandango's rating system after Hickey's analysis.
+[Exploratory Analysis of Ebay Car Sales Data](https://github.com/virajgandhi/DataScience/tree/master/Machine%20Learning/Project2): The aim of this project is to clean the Ebay car sales data and analyze the included used car listings using the programming language Python. We will be using pandas and numpy module for our project.
 
        Tools: Jupyter,Python
 
