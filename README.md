@@ -7,7 +7,7 @@ Contents
 
        Tools: Jupyter,Python,Numpy
 
-[Exploratory Analysis of Ebay Car Sales Data](https://github.com/virajgandhi/DataScience/tree/master/Machine%20Learning/Project2): The aim of this project is to clean the Ebay car sales data and analyze the included used car listings using the programming language Python. We will be using pandas and numpy module for our project.
+[Is FANDANGO Still Inflating Ratings](https://github.com/virajgandhi/DataScience/tree/master/Machine%20Learning/Project2): The aim of this project is to clean the Ebay car sales data and analyze the included used car listings using the programming language Python. We will be using pandas and numpy module for our project.
 
        Tools: Jupyter,Python
 
