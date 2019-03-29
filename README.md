@@ -12,7 +12,7 @@ Contents
        Tools: Jupyter,Python
 
 # Data Analysis and Visualization
- Python
+   Python
  
 [Visualizing Earnings based on College Majors](https://github.com/virajgandhi/DataScience/tree/master/Data%20Visualisation/Project%201): The aim of this project is to be visualizing the gender gap across college degrees. So far, we mostly focused on the STEM degrees but now we will generate line charts to compare across all degree categories
 
@@ -22,26 +22,23 @@ Contents
        
        Tools: pandas,matplotlib,Python,Jupyter
        
- R
+   R
+   
  [Data Visualization in R](https://github.com/virajgandhi/DataScience/tree/master/R/r-data-viz)
+ 
  [Data cleaning in R](https://github.com/virajgandhi/DataScience/tree/master/R/r-data-cleaning)
  
 
 # Micro Projects
 
- Python
+   Python
+   
    [ML with Decision Trees and Random Forests](https://github.com/virajgandhi/DataScience/tree/master/Machine%20Learning/decision-trees)
   
    [ML with K Nearest Neighbours](https://github.com/virajgandhi/DataScience/blob/master/Machine%20Learning/Project3/machine-learning-intermediate/K-means%20clustering-40.py)
    
    [ML with Logistic Regression](https://github.com/virajgandhi/DataScience/blob/master/Machine%20Learning/Project3/machine-learning-intermediate/Logistic%20regression-20.py)
-   
-   
-# [Natural Language Processing](https://github.com/virajgandhi/DataScience/blob/master/Introduction%20to%20Natural%20Language%20Processing-67%202.py)
 
-
-   
-   
 
 
 
